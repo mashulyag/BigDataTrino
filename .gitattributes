@@ -1,0 +1,2 @@
+# Скрипты для Linux-контейнеров всегда с LF (иначе ch-loader / entrypoint падают с exit 2).
+*.sh text eol=lf
